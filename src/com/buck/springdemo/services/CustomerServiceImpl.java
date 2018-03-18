@@ -18,4 +18,29 @@ private CustomerDAO customerDAO;
     public List<Customer> getCustomers() {
         return customerDAO.getCustomers();
     }
+
+    @Override
+    @Transactional
+    public void deleteCustomer(int id) {
+        customerDAO.deleteCustomer(id);
+
+    }
+
+    @Override
+    @Transactional
+    public Customer getCustomer(int Id) {
+        return customerDAO.getCustomer(Id);
+    }
+
+    @Override
+    @Transactional
+    public void saveCustomer(Customer customer) {
+customerDAO.saveCustomer(customer);
+    }
+
+    @Override
+    @Transactional
+    public List<Customer> searchCustomers(String theSearchName) {
+        return customerDAO.searchCustomers(theSearchName);
+    }
 }

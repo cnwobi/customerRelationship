@@ -7,6 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <html>
 <head>
     <!-- Required meta tags -->
@@ -31,7 +32,14 @@
 
     <input type="button" class="btn btn-secondary btn-sm" value="Add Customer" onclick="window.location.href='showFormForAdd'; return false" style="float: right ; margin: 10px"/>
     </div>
-
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <form:form action="search" method="post" class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="text" name="theSearchName" placeholder="Search Customer" >
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form:form>
+        </div>
+    </nav>
     <div id="container">
 
         <div id="content">
@@ -45,15 +53,26 @@
                     </th>
                     <th scope="col">Last Name</th>
                     <th scope="col">Email</th>
+                    <th scope="col">Action</th>
                 </tr>
                 </thead>
                 <tbody>
+                <!-- construct an update link-->
+
                 <!-- loop over and print customers-->
                 <c:forEach var="tempCustomer" items="${customers}">
+                    <c:url var="updateLink" value="/customer/showFormForUpdate">
+                        <c:param name="customerId" value="${tempCustomer.id}"/>
+                    </c:url>
+                    <c:url var="deleteLink" value="/customer/delete">
+                        <c:param name="customerId" value="${tempCustomer.id}"/>
+                    </c:url>
                 <tr class="table-success">
                     <td>${tempCustomer.firstName}</td>
                     <td>${tempCustomer.lastName}</td>
                     <td>${tempCustomer.email}</td>
+                    <td><a  class="text-muted" href="${updateLink}"> Update</a>
+                        | <a class="text-muted" href="${deleteLink}" onclick="if(!(confirm('Are you sure you want to delete this customer?')))return false">Delete </a></td>
                 </tr>
 
                 </c:forEach>

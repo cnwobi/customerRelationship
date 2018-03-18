@@ -41,14 +41,66 @@
         </thead>
     </table>
 <form:form action="saveCustomer" modelAttribute="customer" method="post">
+    <!-- associate this data to a particular customer-->
+    <form:hidden path="id"/>
 
-    <div class="form-group row">
-        <label for="inputEmail3" class="col-sm-2 col-form-label">First Name</label>
-        <div class="col-sm-10">
+    <div class=" row">
+        <label for="inputEmail3" class="col  text-right" > <h5> First Name: </h5></label>
+        <div class="col">
             <form:input path="firstName"  class="form-control" id="inputEmail3" placeholder="First Name"/>
         </div>
-        </form:form>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
+    </div>
+    <div class=" row">
+        <label for="inputEmail3" class="col  text-right" > <h5> Last Name: </h5></label>
+        <div class="col">
+            <form:input path="lastName"  class="form-control"  placeholder="Last Name"/>
+        </div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
+    </div>
+    <div class=" row">
+        <label  class="col  text-right" > <h5> Email: </h5></label>
+        <div class="col">
+            <form:input path="email"  class="form-control"  placeholder="@email"/>
+        </div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
+    </div>
 
+    <div class="row">
+        <div class="col">
+            ..
+        </div>
+        <div class="col">
+        <input type="submit" class="btn btn-secondary btn-sm" value="Submit"  style=" margin: 10px"/>
+        </div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
+    </div>
+        </form:form>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+
+                <a class="nav-item nav-link" href="${pageContext.request.contextPath}/customer/list">Back to List</a>
+
+
+            </div>
+        </div>
+
+    </nav>
         <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
