@@ -15,8 +15,10 @@ public class Customer {
     private String lastName;
     @Column(name = "email")
     private String email;
+    //fgasjda
 
     public Customer() {
+        System.out.println("do something");
     }
 
     public int getId() {
