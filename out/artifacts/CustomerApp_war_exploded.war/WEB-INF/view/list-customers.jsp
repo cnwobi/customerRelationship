@@ -35,7 +35,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <form:form action="search" method="post" class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="text" name="theSearchName" placeholder="Search Customer" >
+                <input class="form-control mr-sm-2" type="text" name="theSearchName" placeholder="Search Customer" aria-label="Search"/>
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
             </form:form>
         </div>

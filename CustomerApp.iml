@@ -39,5 +39,7 @@
     <orderEntry type="library" name="javax.servlet:jsp-api:2.0" level="project" />
     <orderEntry type="library" exported="" name="javax.servlet:jstl:1.1.2" level="project" />
     <orderEntry type="library" name="jstl-1.2" level="project" />
+    <orderEntry type="library" name="hibernate-validator-6.0.6.Final" level="project" />
+    <orderEntry type="library" name="validation-api-2.0.0.Final" level="project" />
   </component>
 </module>

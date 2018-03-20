@@ -1,6 +1,8 @@
 package com.buck.springdemo.entity;
 
 import javax.persistence.*;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
 
 @Entity
 @Table(name ="customer")
@@ -9,14 +11,18 @@ public class Customer {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
     @Column(name = "first_name")
+    @NotNull(message = "Please Enter your Name")
+    @Size( min=1,message ="First name is required" )
     private String firstName;
 
     @Column(name = "last_name")
+    @NotNull(message = "Please Enter your Name")
+    @Size( min=1,message ="Last name is required" )
     private String lastName;
     @Column(name = "email")
+
     private String email;
     //fgasjda
-
     public Customer() {
         System.out.println("do something");
     }

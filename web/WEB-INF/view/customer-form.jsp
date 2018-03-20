@@ -49,7 +49,7 @@
         <div class="col">
             <form:input path="firstName"  class="form-control" id="inputEmail3" placeholder="First Name"/>
         </div>
-        <div class="col"></div>
+        <div class="col"><form:errors path="firstName" class="text-danger"/></div>
         <div class="col"></div>
         <div class="col"></div>
         <div class="col"></div>
@@ -58,8 +58,9 @@
         <label for="inputEmail3" class="col  text-right" > <h5> Last Name: </h5></label>
         <div class="col">
             <form:input path="lastName"  class="form-control"  placeholder="Last Name"/>
+
         </div>
-        <div class="col"></div>
+        <div class="col"> <form:errors path="lastName" class="text-danger" /> </div>
         <div class="col"></div>
         <div class="col"></div>
         <div class="col"></div>
@@ -69,7 +70,7 @@
         <div class="col">
             <form:input path="email"  class="form-control"  placeholder="@email"/>
         </div>
-        <div class="col"></div>
+        <div class="col"><form:errors path="email" class="text-danger" cssClass="error"/></div>
         <div class="col"></div>
         <div class="col"></div>
         <div class="col"></div>

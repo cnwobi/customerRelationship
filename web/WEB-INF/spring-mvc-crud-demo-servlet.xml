@@ -27,21 +27,21 @@
 		<property name="suffix" value=".jsp" />
 	</bean>
 
-    <!-- Step 1: Define Database DataSource / connection pool -->
+	<!-- Step 1: Define Database DataSource / connection pool -->
 	<bean id="myDataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
-          destroy-method="close">
-        <property name="driverClass" value="com.mysql.jdbc.Driver" />
-        <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/web_customer_tracker?useSSL=false" />
-        <property name="user" value="hbstudent" />
-        <property name="password" value="hbstudent" />
+		  destroy-method="close">
+		<property name="driverClass" value="com.mysql.jdbc.Driver" />
+		<property name="jdbcUrl" value="jdbc:mysql://mydbinstance.ca7b9ivun9pm.us-east-2.rds.amazonaws.com:3306/web_customer_tracker" />
+		<property name="user" value="root" />
+		<property name="password" value="Oandoberry1" />
 
-        <!-- these are connection pool properties for C3P0 -->
-        <property name="minPoolSize" value="5" />
-        <property name="maxPoolSize" value="20" />
-        <property name="maxIdleTime" value="30000" />
-	</bean>  
-	
-    <!-- Step 2: Setup Hibernate session factory -->
+		<!-- these are connection pool properties for C3P0 -->
+		<property name="minPoolSize" value="5" />
+		<property name="maxPoolSize" value="20" />
+		<property name="maxIdleTime" value="30000" />
+	</bean>
+
+	<!-- Step 2: Setup Hibernate session factory -->
 	<bean id="sessionFactory"
 		class="org.springframework.orm.hibernate5.LocalSessionFactoryBean">
 		<property name="dataSource" ref="myDataSource" />
@@ -65,8 +65,6 @@
 
 	<!-- Add support for reading web resources: css, images, js, etc ... -->
 	<mvc:resources location="/resources/" mapping="/resources/**"></mvc:resources>
-	
-	
 	
 </beans>
 
