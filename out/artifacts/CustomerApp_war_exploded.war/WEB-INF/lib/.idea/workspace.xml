@@ -7,32 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e692d4e-c3ae-4686-b7a6-d074dab12c3d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/aspectjweaver_1_8_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/aspectjweaver_1_8_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_21.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/CustomerApp_Exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/CustomerApp_Exploded.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/CustomerApp_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/CustomerApp_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/45a77da3-404b-4f38-b941-ff44dcc5078c.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/95216c96-9869-4126-844f-1e2451585eca.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f9aa7224-42f9-421d-bce7-458426cd7c25.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/aspectjweaver_1_6_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/aspectjweaver_1_8_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/c3p0_0_9_0_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/c3p0_0_9_5_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_45_bin.xml" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_46.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/CustomerApp.iml" afterPath="$PROJECT_DIR$/CustomerApp.iml" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/.idea/artifacts/CustomerApp_Exploded.xml" afterPath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/.idea/artifacts/CustomerApp_Exploded.xml" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/.idea/artifacts/CustomerApp_war_exploded.xml" afterPath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/.idea/artifacts/CustomerApp_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/.idea/dataSources/45a77da3-404b-4f38-b941-ff44dcc5078c.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/.idea/dataSources/95216c96-9869-4126-844f-1e2451585eca.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/.idea/dataSources/f9aa7224-42f9-421d-bce7-458426cd7c25.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/.idea/libraries/aspectjrt_1_6_11_M2.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/CustomerApp.iml" afterPath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/CustomerApp.iml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/aspectjrt-1.6.11.M2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/src/com/buck/springdemo/aspect/CRMLoggingAspect.java" afterPath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/src/com/buck/springdemo/aspect/CRMLoggingAspect.java" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterPath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/web/WEB-INF/spring-mvc-crud-demo-servlet2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterPath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/spring-mvc-crud-demo-servlet.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/spring-mvc-crud-demo-servlet2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/buck/springdemo/aspect/CRMLoggingAspect.java" afterPath="$PROJECT_DIR$/src/com/buck/springdemo/aspect/CRMLoggingAspect.java" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/web/WEB-INF/view/list-customers.jsp" afterPath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/lib/web/WEB-INF/view/list-customers.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/view/list-customers.jsp" afterPath="$PROJECT_DIR$/out/artifacts/CustomerApp_war_exploded.war/WEB-INF/view/list-customers.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,10 +62,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="CustomerDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/dao/CustomerDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="11" column="64" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="CustomerDAOimpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/dao/CustomerDAOimpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
+            <state relative-caret-position="1659">
               <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -84,31 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/services/CustomerServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#839#840#0" expanded="true" />
-                <element signature="e#923#924#0" expanded="true" />
-                <element signature="e#965#966#0" expanded="true" />
-                <element signature="e#1065#1066#0" expanded="true" />
-                <element signature="e#1130#1131#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CustomerController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+            <state relative-caret-position="126">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,8 +99,8 @@
       <file leaf-file-name="CRMLoggingAspect.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/aspect/CRMLoggingAspect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+            <state relative-caret-position="1197">
+              <caret line="57" column="42" lean-forward="false" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,11 +108,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <file leaf-file-name="list-customers.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="189">
+              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-315">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="starter-template.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/resources/css/starter-template.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -141,20 +141,8 @@
       <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/entity/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding>
-                <marker date="1521504935814" expanded="true" signature="1371:1606" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="customer-form.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/customer-form.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="55" column="10" lean-forward="false" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+            <state relative-caret-position="105">
+              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -163,48 +151,19 @@
       <file leaf-file-name="spring-mvc-crud-demo-servlet.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="68" lean-forward="false" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+            <state relative-caret-position="315">
+              <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerApp.iml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CustomerApp.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CustomerApp.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpringLocalModels/module=CustomerApp" pinned="false" current-in-tab="false">
-        <entry file="uml://SpringLocalModels/module=CustomerApp">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>SpringLocalModels</ID>
-              <OriginalElement>module=CustomerApp</OriginalElement>
-              <nodes>
-                <node x="0.0" y="0.0">module=CustomerApp</node>
-                <node x="202.0" y="0.0">fileset=CustomerApp/MVC dispatcher servlet context</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="module=CustomerApp" target="fileset=CustomerApp/MVC dispatcher servlet context">
-                  <point x="61.0" y="-0.0" />
-                  <point x="-117.5" y="-0.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-472.5" y="107.5" />
-              <SelectedNodes>
-                <node>module=CustomerApp</node>
-                <node>fileset=CustomerApp/MVC dispatcher servlet context</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Show filesets as groups</Category>
-              </Categories>
             </state>
           </provider>
         </entry>
@@ -218,6 +177,7 @@
         <option value="Interface" />
         <option value="Class" />
         <option value="Jsp File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -248,11 +208,12 @@
         <option value="$PROJECT_DIR$/src/com/buck/springdemo/dao/CustomerDAO.java" />
         <option value="$PROJECT_DIR$/src/com/buck/springdemo/services/CustomerServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/com/buck/springdemo/dao/CustomerDAOimpl.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" />
         <option value="$PROJECT_DIR$/src/com/buck/springdemo/entity/Customer.java" />
         <option value="$PROJECT_DIR$/src/com/buck/springdemo/controller/CustomerController.java" />
-        <option value="$PROJECT_DIR$/src/com/buck/springdemo/aspect/CRMLoggingAspect.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/com/buck/springdemo/aspect/CRMLoggingAspect.java" />
+        <option value="$PROJECT_DIR$/web/resources/css/starter-template.css" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" />
       </list>
     </option>
   </component>
@@ -284,42 +245,46 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CustomerApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CustomerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="customerRelationship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customerRelationship" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CustomerApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CustomerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="customerRelationship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customerRelationship" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CustomerApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CustomerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="customerRelationship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customerRelationship" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CustomerApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CustomerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="customerRelationship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customerRelationship" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="buck" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CustomerApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CustomerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="customerRelationship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customerRelationship" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="buck" type="462c0819:PsiDirectoryNode" />
               <item name="springdemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CustomerApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CustomerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="customerRelationship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customerRelationship" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="buck" type="462c0819:PsiDirectoryNode" />
@@ -327,24 +292,40 @@
               <item name="aspect" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CustomerApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CustomerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="customerRelationship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customerRelationship" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CustomerApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CustomerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="customerRelationship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customerRelationship" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customerRelationship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customerRelationship" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customerRelationship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customerRelationship" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customerRelationship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customerRelationship" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -354,11 +335,12 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/aspectjweaver-1.8.10.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/c3p0-0.9.5.1.jar!/" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -519,12 +501,13 @@
       <workItem from="1521340162528" duration="16333000" />
       <workItem from="1521363265830" duration="16506000" />
       <workItem from="1521504361290" duration="1137000" />
-      <workItem from="1521505678542" duration="1997000" />
+      <workItem from="1521505678542" duration="5553000" />
+      <workItem from="1522244364363" duration="2194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36059000" />
+    <option name="totallyTimeSpent" value="41809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -542,17 +525,17 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5820543" sideWeight="0.49570355" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5820543" sideWeight="0.49570355" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33458647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -611,16 +594,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/entity/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <marker date="1521504935814" expanded="true" signature="1371:1606" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/customer-form.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -676,9 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="64" lean-forward="false" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -687,15 +657,15 @@
         <state relative-caret-position="609">
           <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#1065#1066#0" expanded="true" />
-            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#542#543#0" expanded="false" />
+            <element signature="e#591#592#0" expanded="false" />
+            <element signature="e#789#790#0" expanded="false" />
+            <element signature="e#839#840#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#965#966#0" expanded="false" />
+            <element signature="e#1065#1066#0" expanded="false" />
+            <element signature="e#1130#1131#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -704,9 +674,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="11" column="64" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -750,9 +718,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-168">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <marker date="1521504935814" expanded="true" signature="1371:1606" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -768,9 +734,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -788,9 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,15 +760,15 @@
         <state relative-caret-position="126">
           <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#1065#1066#0" expanded="true" />
-            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#542#543#0" expanded="false" />
+            <element signature="e#591#592#0" expanded="false" />
+            <element signature="e#789#790#0" expanded="false" />
+            <element signature="e#839#840#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#965#966#0" expanded="false" />
+            <element signature="e#1065#1066#0" expanded="false" />
+            <element signature="e#1130#1131#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -842,9 +803,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <marker date="1521504935814" expanded="true" signature="1371:1606" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -874,40 +833,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/showFormForUpdate.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/dao/CustomerDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="64" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/services/CustomerService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="64" lean-forward="false" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,29 +849,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/entity/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <marker date="1521504935814" expanded="true" signature="1371:1606" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/controller/CustomerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/customer-form.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
+        <state relative-caret-position="1155">
           <caret line="55" column="10" lean-forward="false" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
           <folding />
         </state>
@@ -963,7 +873,7 @@
               <point x="-117.5" y="-0.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-472.5" y="107.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-472.0" y="108.0" />
           <SelectedNodes>
             <node>module=CustomerApp</node>
             <node>fileset=CustomerApp/MVC dispatcher servlet context</node>
@@ -971,31 +881,66 @@
           <Categories>
             <Category>Show filesets as groups</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/services/CustomerServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="84">
           <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#1065#1066#0" expanded="true" />
-            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#542#543#0" expanded="false" />
+            <element signature="e#591#592#0" expanded="false" />
+            <element signature="e#789#790#0" expanded="false" />
+            <element signature="e#839#840#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#965#966#0" expanded="false" />
+            <element signature="e#1065#1066#0" expanded="false" />
+            <element signature="e#1130#1131#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/dao/CustomerDAOimpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
+        <state relative-caret-position="1659">
           <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CustomerApp.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/dao/CustomerDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="64" lean-forward="false" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1004,26 +949,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/buck/springdemo/aspect/CRMLoggingAspect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        <state relative-caret-position="1197">
+          <caret line="57" column="42" lean-forward="false" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml">
+    <entry file="file://$PROJECT_DIR$/web/resources/css/starter-template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="68" lean-forward="false" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        <state relative-caret-position="210">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CustomerApp.iml">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-315">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -1083,11 +1044,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|CustomerApp</last-edited>
+          <last-edited>CustomerApp</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1095,7 +1057,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>aspectjweaver-1.8.10</last-edited>
+          <last-edited>c3p0-0.9.5.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
